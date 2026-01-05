@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ajay-Kr/LeetHub/tree/master/0027-remove-element) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2350-find-closest-number-to-zero](https://github.com/Ajay-Kr/LeetHub/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -16,4 +17,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ajay-Kr/LeetHub/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Sorting
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Radix Sort
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
+## Quickselect
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
