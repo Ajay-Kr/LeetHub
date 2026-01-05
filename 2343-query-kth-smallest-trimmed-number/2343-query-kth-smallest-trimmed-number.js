@@ -15,7 +15,7 @@
                                 if(a[0] == b[0]) {
                                   return a[1] < b[1] ? -1 : a[1] > b[1] ? 1 : 0;
                                 }
-                                return a[0] < b[0] ? -1 : a[0] > a[0] ? 1 : 0;
+                                return a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0;
                               });
       uniqueTrims[trim]["array"] = uniqueTrimArr;
       
@@ -38,7 +38,7 @@
     //                             if(a[0] == b[0]) {
     //                               return a[1] < b[1] ? -1 : a[1] > b[1] ? 1 : 0;
     //                             }
-    //                             return a[0] < b[0] ? -1 : a[0] > a[0] ? 1 : 0;
+    //                             return a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0;
     //                           });
     //   answer.push(trimmedArray[k - 1][1])
     // }
