@@ -7,7 +7,6 @@ class Solution {
         i++;
         j--;
       }
-      System.out.println(Arrays.toString(nums));
     }
     public void rotate(int[] nums, int k) {
         int len = nums.length;
