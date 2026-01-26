@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ajay-Kr/LeetHub/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ajay-Kr/LeetHub/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2350-find-closest-number-to-zero](https://github.com/Ajay-Kr/LeetHub/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ajay-Kr/LeetHub/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ajay-Kr/LeetHub/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
