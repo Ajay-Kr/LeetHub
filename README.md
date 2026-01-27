@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ajay-Kr/LeetHub/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/Ajay-Kr/LeetHub/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ajay-Kr/LeetHub/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ajay-Kr/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ajay-Kr/LeetHub/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
 ## Math
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ajay-Kr/LeetHub/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0088-merge-sorted-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Heap (Priority Queue)
 |  |
