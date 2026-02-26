@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ajay-Kr/LeetHub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2350-find-closest-number-to-zero](https://github.com/Ajay-Kr/LeetHub/tree/master/2350-find-closest-number-to-zero) |
+| [2460-apply-operations-to-an-array](https://github.com/Ajay-Kr/LeetHub/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
+| [2460-apply-operations-to-an-array](https://github.com/Ajay-Kr/LeetHub/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Ajay-Kr/LeetHub/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
