@@ -1,14 +1,14 @@
 class Solution {
     public boolean checkString(String s) {
-      int count = 0; 
-      for(int i = 1; i < s.length(); i++) {
-        if(s.charAt(i) != s.charAt(i-1)) {
-          if(s.charAt(i-1) != 'a') return false;
-
-          count++;
+      boolean seenB = false;
+      for(int i = 0; i < s.length(); i++) {
+        if(s.charAt(i) == 'b') {
+          seenB = true;
+        } else if(seenB) {
+          return false ;
         }
       }
 
-      return count <= 1;
+      return true;
     }
 }
