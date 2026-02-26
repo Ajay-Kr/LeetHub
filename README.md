@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ajay-Kr/LeetHub/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Divide and Conquer
 |  |
