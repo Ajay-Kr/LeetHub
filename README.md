@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Ajay-Kr/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ajay-Kr/LeetHub/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2350-find-closest-number-to-zero](https://github.com/Ajay-Kr/LeetHub/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
