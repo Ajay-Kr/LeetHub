@@ -4,9 +4,9 @@ class Solution {
         if((k % nums.length) == nums.length) return;
         if(nums.length == 1) return;
 
-        int rev = k%nums.length;
-        reverse(nums, 0, nums.length-rev-1);
-        reverse(nums, nums.length-rev, nums.length-1);
+        k = k%nums.length;
+        reverse(nums, 0, nums.length-k-1);
+        reverse(nums, nums.length-k, nums.length-1);
         reverse(nums, 0, nums.length-1);
     }
     static void reverse(int[] nums, int start, int end) {
