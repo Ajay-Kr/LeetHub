@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ajay-Kr/LeetHub/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ajay-Kr/LeetHub/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ajay-Kr/LeetHub/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Ajay-Kr/LeetHub/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Ajay-Kr/LeetHub/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0268-missing-number) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Ajay-Kr/LeetHub/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Heap (Priority Queue)
 |  |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ajay-Kr/LeetHub/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
