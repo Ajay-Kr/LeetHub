@@ -1,9 +1,16 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int ans = 0;
+        int sum = 0;
+        HashSet<Integer> set = new HashSet<>();
         for(int num : nums)  {
-            ans ^= num;
+            sum += num;
+            set.add(num);
         }
+        int uniqueSum = 0;
+        for(int num : set) {
+            uniqueSum += num;
+        }
+        int ans = 2 * uniqueSum - sum;
         return ans;
     }
 }
