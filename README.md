@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ajay-Kr/LeetHub/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Ajay-Kr/LeetHub/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Ajay-Kr/LeetHub/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Ajay-Kr/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0268-missing-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ajay-Kr/LeetHub/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
