@@ -5,7 +5,7 @@ class Solution {
         for(int i = 0; i<nums.length; i++) {
             if(nums[i] == 1) {
                 cur++;
-                if(cur > max) max = cur;
+                max = Math.max(max, cur);
             } else {
                 cur = 0;
             }
